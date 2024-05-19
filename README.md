@@ -22,4 +22,8 @@ Este projeto foi feito com:
 
 ## 📸 Visual do site
 
+Página principal:
+
+![página principal](https://github.com/moscardini-carvalho/UNES-universidade/assets/162808430/8482fbd4-54a7-435c-9d9a-85c07139bade)
+
 
