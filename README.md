@@ -4,7 +4,7 @@ Este é um site totalmente desenvolvido em linguagem HTML para aperfeiçoar algu
 
 ## 🚀 Visualizando o site
 
-link para acesso da página: [(unes-universidade-pi.vercel.app)]
+link para acesso da página: [https://unes-universidade-pi.vercel.app]
 
 ### 🔧 Instalação
 
